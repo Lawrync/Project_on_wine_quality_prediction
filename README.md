@@ -63,9 +63,13 @@ Here we will work on data cleaning, handling missing values, data transformation
 ![image](https://github.com/Lawrync/Project_on_wine_quality_prediction/assets/142001815/02f7b3ba-7d33-491a-b5a5-c70989f227d3)
 
 
+
 The histogram displays the distribution of fixed acidity in the dataset, with the x-axis representing acidity levels from 4 to 16 and the y-axis showing frequency up to 300. A bell-shaped curve overlaid on the bars indicates a normal distribution, peaking around an acidity level of 8.
 
 ![image](https://github.com/Lawrync/Project_on_wine_quality_prediction/assets/142001815/28817bfa-5df6-4fe1-b444-bc652f3c6baa)
+
+
+
 
 
 
