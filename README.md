@@ -72,7 +72,10 @@ The histogram displays the distribution of fixed acidity in the dataset, with th
 
 
 
+The scatter plot titled "Fixed Acidity vs. Citric Acid" illustrates the relationship between these two variables in wines. The x-axis represents "Fixed Acidity" (ranging from 5 to 16), while the y-axis represents "Citric Acid" (ranging from 0 to 1). Each data point represents a wine sample, color-coded by its quality level (ranging from 3 to 8). Observations indicate clustering of data points between fixed acidity levels of 6 to 10 and citric acid levels of 0.2 to 0.6. Notably, quality levels 5 and 6 have the highest concentration of data points, while levels 8 and 9 are sparsely represented. This scatter plot effectively visualizes the relationship between fixed acidity, citric acid, and wine quality.
 
+
+![image](https://github.com/Lawrync/Project_on_wine_quality_prediction/assets/142001815/152d83d9-5a59-4fba-b2c7-8225c9c81e30)
 
 
 
