@@ -53,3 +53,7 @@ The dataset contains 12 columns, including 11 physicochemical input variables (e
 1. Data Wrangling
 
 Here we will work on data cleaning, handling missing values, data transformation, handling duplicates, data reshaping, and other processes to ensure that we have a clean, structured, and suitable format for analysis and modeling
+
+2. Exploratory Data Analysis (EDA)
+
+   
