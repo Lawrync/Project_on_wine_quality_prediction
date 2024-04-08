@@ -30,18 +30,26 @@ Develop a machine learning model to predict red wine quality.
 ##other objectives 
 
 1) Identify Key Physicochemical Properties:
+
 - Analyze dataset to pinpoint significant physicochemical properties.
 - Conduct feature selection or extraction to emphasize relevant variables.
 2) Evaluate and Compare Machine Learning Algorithms:
+  
 - Train various machine learning algorithms and compare their performance.
 - Use metrics like accuracy, precision, recall, F1-score, and AUC for comparison.
 3) Establish Optimal Classification Threshold:
+  
 - Experiment with different classification thresholds to effectively classify 'good' and 'not good' wines.
 - Determine threshold maximizing model accuracy in wine quality classification.
 4) Enhance Understanding of Wine Quality Factors:
+  
 - Conduct exploratory data analysis (EDA) to visualize physicochemical properties' distribution.
 - Derive insights into factors contributing to high-quality wine.
 
   ### Data Understanding:
   
 The dataset contains 12 columns, including 11 physicochemical input variables (e.g., acidity, sugar content) and 1 output variable representing wine quality scores ranging from 0 to 10. The dataset allows for regression or classification tasks, suggesting the use of an arbitrary cutoff to classify wines as 'good' or 'not good.' Tips are provided for data preprocessing, feature engineering, and model evaluation.
+
+1. Data Wrangling
+
+Here we will work on data cleaning, handling missing values, data transformation, handling duplicates, data reshaping, and other processes to ensure that we have a clean, structured, and suitable format for analysis and modeling
