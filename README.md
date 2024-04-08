@@ -41,3 +41,7 @@ Develop a machine learning model to predict red wine quality.
 4) Enhance Understanding of Wine Quality Factors:
 - Conduct exploratory data analysis (EDA) to visualize physicochemical properties' distribution.
 - Derive insights into factors contributing to high-quality wine.
+
+  ### Data Understanding:
+  
+The dataset contains 12 columns, including 11 physicochemical input variables (e.g., acidity, sugar content) and 1 output variable representing wine quality scores ranging from 0 to 10. The dataset allows for regression or classification tasks, suggesting the use of an arbitrary cutoff to classify wines as 'good' or 'not good.' Tips are provided for data preprocessing, feature engineering, and model evaluation.
