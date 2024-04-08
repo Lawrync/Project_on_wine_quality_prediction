@@ -57,5 +57,11 @@ Here we will work on data cleaning, handling missing values, data transformation
 2. Exploratory Data Analysis (EDA)
 
    The bar graph presents the distribution of wine quality ratings, with the x-axis representing quality scores from 5 to 9 and the y-axis indicating the count of wines within each quality category. The majority of wines fall into the 5 and 6 quality ratings, each accounting for approximately 700 counts, while there is a noticeable drop in wines rated 7. Wines rated 8 and 9 are scarce, with only a few instances recorded. Overall, the dataset predominantly consists of wines of average quality, with exceptionally high-quality wines being rare.
+![image](https://github.com/Lawrync/Project_on_wine_quality_prediction/assets/142001815/28817bfa-5df6-4fe1-b444-bc652f3c6baa)
+
+
+The histogram displays the distribution of fixed acidity in the dataset, with the x-axis representing acidity levels from 4 to 16 and the y-axis showing frequency up to 300. A bell-shaped curve overlaid on the bars indicates a normal distribution, peaking around an acidity level of 8.
 ![Uploading image.png…]()
+
+
 
