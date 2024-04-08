@@ -78,4 +78,5 @@ The scatter plot titled "Fixed Acidity vs. Citric Acid" illustrates the relation
 ![image](https://github.com/Lawrync/Project_on_wine_quality_prediction/assets/142001815/152d83d9-5a59-4fba-b2c7-8225c9c81e30)
 
 
+#  Model Building
 
