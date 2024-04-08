@@ -79,4 +79,6 @@ The scatter plot titled "Fixed Acidity vs. Citric Acid" illustrates the relation
 
 
 #  Model Building
+ 
 
+The model performance comparison provides valuable insights into the effectiveness of different algorithms for wine quality prediction. Among the evaluated models, XGBoost demonstrated the highest accuracy score of 0.915625, closely followed by RandomForestClassifier with a score of 0.903125. Notably, LogisticRegression also exhibited commendable performance with an accuracy score of 0.865625. These scores highlight the predictive capabilities of each algorithm, aiding in the selection of the most suitable model for wine quality prediction.
